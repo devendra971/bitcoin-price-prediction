@@ -2,7 +2,7 @@
 
 The Project is in the partial fulfillment of course Machine Learning (`CS 584`) @ ILLINOIS INSTITUTE OF TECHNOLOGY 
 
-Submitted by~ Group 48
+Submitted by~ ``Group 48``
 
 #### Varun Anavatti (A20526745)
 
@@ -10,7 +10,7 @@ Submitted by~ Group 48
 
 #### Narendra Kumar Srivastava (A20529845)
 
-## INTRODUCTION:
+## Introduction:
 The availability of vast amounts of data and sophisticated machine learning algorithms have made it possible to create models that can provide reasonably accurate prediction
 Our Machine learning models are trained to predict future Bitcoin prices by analyzing historical data and identifying patterns.
 
@@ -23,4 +23,4 @@ KEYWORDS : Auto Regressive Integrated Moving Average Model​(ARIMA)
 Data used in this project is a real time data that we get from the `cmcscraper`. cmcscraper is a Python package that is primarily used for scraping cryptocurrency market data from the `CoinMarketCap` (CMC) API. 
 
 ## Data Visualization:
-![Closing price distribution of bitcoin](https://user-images.githubusercontent.com/123267360/236463238-16d63bd1-7035-4f37-94a7-d7ba996e891e.png)
+<img src="https://user-images.githubusercontent.com/123267360/236463238-16d63bd1-7035-4f37-94a7-d7ba996e891e.png" width="700" height="500">
