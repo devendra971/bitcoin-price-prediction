@@ -25,5 +25,8 @@ Data used in this project is a real time data that we get from the `cmcscraper`.
 ## Data Visualization:
 <img src="https://user-images.githubusercontent.com/123267360/236463238-16d63bd1-7035-4f37-94a7-d7ba996e891e.png" width="700" height="500">
 
+### Seasonality & Trends:
+<img src="https://user-images.githubusercontent.com/123267360/236628154-11877fd1-806a-45be-83cb-9070ce0969c9.png" width="700" height="500">
+
 ## Model Comparision:
 <img src="https://user-images.githubusercontent.com/123267360/236621852-6636f335-6087-410f-b27b-538e09471c24.png" width="2000" height="150">
